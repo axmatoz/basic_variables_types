@@ -7,5 +7,6 @@ Create a variable y with the data type double.
 */
 
 void main() {
-  // write your code here
+  double y = 5.20;
+  print(y);
 }
